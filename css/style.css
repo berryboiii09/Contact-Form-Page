@@ -107,6 +107,9 @@ input[type="submit"]:hover {
 
 /*Mobile Optimizations*/
 @media (max-width: 768px){
+    main{
+        margin: auto auto;
+    }
     #image {
     display: none;
     }
